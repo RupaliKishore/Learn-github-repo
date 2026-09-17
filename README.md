@@ -10,3 +10,11 @@ Hello, Hi I'm Rupali Tompe.
     - Repo clean
     - Commit code
     - Push code on github
+
+
+## Today also I learn Branch change
+
+    - Branch = Different line of work
+    - main branch =  Main code
+    - feature branch = Practicle space
+    - all done = then merge
