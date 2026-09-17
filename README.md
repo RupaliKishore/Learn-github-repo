@@ -18,3 +18,12 @@ Hello, Hi I'm Rupali Tompe.
     - main branch =  Main code
     - feature branch = Practicle space
     - all done = then merge
+
+
+## Today I also create new Branch
+
+     - create new Branch 
+     - Branch = Diffrent line of work
+     - main branch = main code
+     - feacher branch = for practice create new branch
+     - all done then merge
